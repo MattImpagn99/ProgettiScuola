@@ -1,0 +1,12 @@
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\3.File\TauromachiaVegana\TauromachiaVegana\bin\Debug\TauromachiaVegana.exe.config
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\3.File\TauromachiaVegana\TauromachiaVegana\bin\Debug\TauromachiaVegana.exe
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\3.File\TauromachiaVegana\TauromachiaVegana\bin\Debug\TauromachiaVegana.pdb
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\3.File\TauromachiaVegana\TauromachiaVegana\obj\Debug\TauromachiaVegana.csprojResolveAssemblyReference.cache
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\3.File\TauromachiaVegana\TauromachiaVegana\obj\Debug\TauromachiaVegana.exe
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\3.File\TauromachiaVegana\TauromachiaVegana\obj\Debug\TauromachiaVegana.pdb
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\3.File\TauromachiaVeganaConsole\TauromachiaVegana\bin\Debug\TauromachiaVegana.exe.config
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\3.File\TauromachiaVeganaConsole\TauromachiaVegana\obj\Debug\TauromachiaVegana.exe
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\3.File\TauromachiaVeganaConsole\TauromachiaVegana\obj\Debug\TauromachiaVegana.pdb
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\3.File\TauromachiaVeganaConsole\TauromachiaVegana\bin\Debug\TauromachiaVegana.exe
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\3.File\TauromachiaVeganaConsole\TauromachiaVegana\bin\Debug\TauromachiaVegana.pdb
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\3.File\TauromachiaVeganaConsole\TauromachiaVegana\obj\Debug\TauromachiaVegana.csprojResolveAssemblyReference.cache
